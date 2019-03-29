@@ -64,6 +64,9 @@ li{
     width: 100vmax;
     background: blue;
 }
+.photo{
+    width: 100%;
+}
 
 .item-3 {
     display: grid;
@@ -155,6 +158,9 @@ li{
     align-content: center;
     background: white;
 }
+.photo2{
+    width: 18rem;
+}
 
 .item-9 {
     display: grid;
@@ -191,6 +197,9 @@ li{
     justify-items: center;
     align-content: center;
     background: white;
+}
+.photo66{
+    width: 18rem;
 }
 
 .item-12 {
@@ -254,6 +263,9 @@ li{
     align-content: center;
     background:  white;
 }
+.photo10{
+    width: 15rem;
+}
 .item-16{
     display: grid;
     /* border: 2px solid white; */
@@ -264,6 +276,9 @@ li{
     justify-items: center;
     align-content: center;
     background:  white;
+}
+.photo55{
+    width: 18rem;
 }
 .item-17{
     display: grid;
@@ -276,6 +291,9 @@ li{
     align-content: center;
     background:  white;
 }
+.photo11{
+    width: 18rem;
+}
 .item-18{
     display: grid;
     /* border: 2px solid white; */
@@ -287,6 +305,9 @@ li{
     align-content: center;
     background:  white;
 }
+.photo22{
+    width: 18rem;
+}
 .item-19{
     display: grid;
     /* border: 2px solid white; */
@@ -297,6 +318,9 @@ li{
     justify-items: center;
     align-content: center;
     background:  white;
+}
+.photo33{
+    width: 18rem;
 }
 .item-20 {
     display: grid;
